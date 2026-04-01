@@ -73,7 +73,7 @@ Missing a cancer case can be dangerous, so model evaluation should focus on reca
 
 1. Clone the repository
 
-git clone git clone https://github.com/jayeshmahajan23/cancer_prediction.git
+git clone https://github.com/Jayeshmahajan9923/cancer-prediction/blob/main/README.md
 
 2. Open the notebook in Jupyter
 
