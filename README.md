@@ -73,7 +73,7 @@ Missing a cancer case can be dangerous, so model evaluation should focus on reca
 
 You can view the complete notebook with outputs here:
 
-https://nbviewer.org/github/jayeshmahajan9923/cancer-prediction/blob/main/cancer_prediction.ipynb
+https://nbviewer.org/github/Jayeshmahajan9923/cancer-prediction/blob/main/cancer_prediction%20%281%29.ipynb
 
 ---
 
